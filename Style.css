@@ -1,0 +1,63 @@
+#menu.p{
+    text-transform: uppercase ; 
+}
+a:link
+{
+    text-decoration:none;
+    color: purple;
+} 
+
+#acceuil{
+    background-color: black;
+}
+
+#acceuil p{
+    color: powderblue;
+}
+
+#HautDroite{
+    text-align: right;
+}
+
+#formation{
+    background-color: black;
+    color: powderblue;
+}
+#projet{
+    background-color: black;
+    color: powderblue;
+}
+#competence{
+    background-color: black;
+    color: powderblue;
+}
+
+#formation h4{
+    font-stretch: ultra-condensed; 
+    text-transform: uppercase; 
+    text-shadow: .1em .1em silver;
+    color: rgb(0, 37, 146);
+}
+
+#flex{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(5, 4, 4);
+}
+
+#bar h3{
+    color: rgb(8, 150, 194);
+}
+
+#projet ul{
+    list-style: none;
+}
+
+#projet h4{
+    font-stretch: ultra-condensed; 
+    text-transform: uppercase; 
+    text-shadow: .1em .1em silver;
+    color: rgb(0, 37, 146);
+}
